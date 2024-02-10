@@ -43,3 +43,9 @@ Third commit:
 
 +added input validation
 
+Portfolio Corrections Commit
+
++added comments to explain code more thoroughly
+
++added custom method for adding average daily temperatures to the dailyTemps ArrayList
+
